@@ -1,5 +1,8 @@
 Leo Rutten (`lrutten`)
 
+* Belgian ing. EM 1979
+* Former CS lecturer at [KU Leuven campus Diepenbeek](https://iiw.kuleuven.be/english/diepenbeek)
+
 I am using these languages:
 
 * C++
@@ -8,7 +11,7 @@ I am using these languages:
 * Dart
 * Erlang
 * Pony
-* Closure
+
 
 I am using these operating systems:
 
